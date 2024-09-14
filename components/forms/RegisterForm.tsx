@@ -98,7 +98,7 @@ const RegisterForm = ({ user }: { user: User }) => {
             control = {form.control}
             name = "email"
             label = "Email"
-            placeholder = "delat@butterflytech.org"
+            placeholder = "delta@butterflytech.org"
             iconSrc = "/assets/icons/email.svg"
             iconAlt = "email"
             />
